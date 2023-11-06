@@ -20,7 +20,15 @@ During high-price periods, Nest devices are adjusted to conserve energy. For exa
 Users can customize preferences and override automated settings through setting.
 
 ## Installation
-TODO
+Create virtual environment (optional but recommanded)
+```
+python3 -m venv venv
+source venv/bin/activate
+```
+Install libraries
+```
+pip install -r requirements.txt
+```
 
 ## Usage
 TODO
